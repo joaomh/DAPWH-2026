@@ -1,0 +1,2 @@
+Model,Test_Accuracy,F1_Score,Split
+YOLOv12s-cls,0.9172794222831726,0.9558823704719543,test
