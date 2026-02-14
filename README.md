@@ -1,6 +1,10 @@
 # 🐝 Dataset of Parasitoids Waps and Associated Hymenoptera (DAPWH)
 This repository contains the data processing pipelines and training workflows developed for the DAPWH dataset. It includes scripts for preprocessing, dataset split, model training, and evaluation of classification and detection models.
+![Ichneumonidae Detection Example](00134_yolov12.png)
+*An Ichneumonidae wasp detected with high confidence.*
 
+![Braconidae Detection Example](604_yolov12.png)
+*A Braconidae wasp detected.*
 ## Dataset Availability
 Comprising the families Ichneumonidae and Braconidae, these parasitoid wasps are ecologically critical for the regulation of insect populations, yet they remain one of the most taxonomically challenging groups due to their cryptic morphology and vast number of undescribed species. To address the scarcity of robust digital resources for these key groups, we present a curated image dataset designed to advance automated identification systems. The dataset contains 3,556 high-resolution images, primarily focused on Neotropical Ichneumonidae and Braconidae, while also including supplementary families such as Andrenidae, Apidae, Bethylidae, Chrysididae, Colletidae, Halictidae, Megachilidae, Pompilidae, and Vespidae to improve model robustness. Crucially, a subset of 1,739 images is annotated in COCO format, featuring multi-class bounding boxes for the full insect body, wing venation, and scale bars. This resource provides a foundation for developing computer vision models capable of identify this families.
 
