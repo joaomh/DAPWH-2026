@@ -10,8 +10,8 @@ Comprising the families Ichneumonidae and Braconidae, these parasitoid wasps are
 
 The DAPWH dataset is publicly available on Zenodo:
 
-[https://zenodo.org/records/18501018](https://zenodo.org/records/18501018)
-DOI: [https://doi.org/10.5281/zenodo.18501017](https://doi.org/10.5281/zenodo.18501017)
+- [https://zenodo.org/records/18501018](https://zenodo.org/records/18501018)
+- DOI: [https://doi.org/10.5281/zenodo.18501017](https://doi.org/10.5281/zenodo.18501017)
 
 The paper citation can be found in:
 
