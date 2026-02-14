@@ -1,7 +1,7 @@
 # 🐝 Dataset of Parasitoids Waps and Associated Hymenoptera (DAPWH)
 This repository contains the data processing pipelines and training workflows developed for the DAPWH dataset. It includes scripts for preprocessing, dataset split, model training, and evaluation of classification and detection models.
 ![Ichneumonidae Detection Example](00134_yolov12.png)
-*An Ichneumonidae wasp detected with high confidence.*
+*An Ichneumonidae wasp detected.*
 
 ![Braconidae Detection Example](604_yolov12.png)
 *A Braconidae wasp detected.*
