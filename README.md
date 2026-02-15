@@ -1,4 +1,4 @@
-# 🐝 Dataset of Parasitoids Waps and Associated Hymenoptera (DAPWH)
+# 🐝 Dataset of Parasitoid Waps and Associated Hymenoptera (DAPWH)
 This repository contains the data processing pipelines and training workflows developed for the DAPWH dataset. It includes scripts for preprocessing, dataset split, model training, and evaluation of classification and detection models.
 ![Ichneumonidae Detection Example](00134_yolov12.png)
 *An Ichneumonidae wasp detected.*
@@ -15,7 +15,7 @@ The DAPWH dataset is publicly available on Zenodo:
 
 The paper citation can be found in:
 
-[Dataset of Parasitoids Wasps and Associated Hymenoptera (DAPWH)](https://zenodo.org/records/18501018)
+[Dataset of Parasitoid Wasps and Associated Hymenoptera (DAPWH)](https://zenodo.org/records/18501018)
 
 ## Scripts
 
