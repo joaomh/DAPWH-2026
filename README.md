@@ -15,7 +15,20 @@ The DAPWH dataset is publicly available on Zenodo:
 
 The paper citation can be found in:
 
-[Dataset of Parasitoid Wasps and Associated Hymenoptera (DAPWH)](https://zenodo.org/records/18501018)
+[Dataset of Parasitoid Wasps and Associated Hymenoptera (DAPWH)](https://doi.org/10.1109/IEEEDATA.2026.3683381)
+
+```latex
+@ARTICLE{11483097,
+  author={Pinheiro, Joao Manoel Herrera and Do Nascimento Herrera, Gabriela and Fernandes, Luciana Bueno Dos Reis and Santos, Alvaro Doria Dos and Godoy, Ricardo V. and Almeida, Eduardo A. B. and Onody, Helena Carolina and Vieira, Marcelo Andrade Da Costa and Penteado-Dias, Angelica Maria and Becker, Marcelo},
+  journal={IEEE Data Descriptions}, 
+  title={Descriptor: Parasitoid Wasps and Associated Hymenoptera Dataset (DAPWH)}, 
+  year={2026},
+  volume={3},
+  number={},
+  pages={265-274},
+  keywords={Antennas;Electronic mail;Pixel;Local area networks;Location awareness;Presence network agents;Protocols;Communication systems;Message systems;Mobile communication;Arthropod;biodiversity;convolutional neural network;taxonomy},
+  doi={10.1109/IEEEDATA.2026.3683381}}
+```
 
 ## Scripts
 
