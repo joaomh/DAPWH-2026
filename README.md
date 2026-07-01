@@ -1,10 +1,55 @@
-# 🐝 Dataset of Parasitoid Waps and Associated Hymenoptera (DAPWH)
-This repository contains the data processing pipelines and training workflows developed for the DAPWH dataset. It includes scripts for preprocessing, dataset split, model training, and evaluation of classification and detection models.
+<h1 align="center">
+  DAPWH
+</h1>
+
+<h3 align="center">
+  Descriptor: Parasitoid Wasps and Associated Hymenoptera Dataset (DAPWH)
+</h3>
+
+<p align="center">
+  <strong>João Manoel Herrera Pinheiro</strong><sup>1</sup> &middot;
+  <strong>Gabriela do Nascimento Herrera</strong><sup>2</sup> &middot;
+  <strong>Luciana Bueno dos Reis Fernandes</strong><sup>2</sup> &middot;
+  <strong>Alvaro Doria dos Santos</strong><sup>3</sup> &middot;
+  <strong>Ricardo V. Godoy</strong><sup>1</sup><br>
+  <strong>Eduardo A. B. Almeida</strong><sup>4</sup> &middot;
+  <strong>Helena Carolina Onody</strong><sup>5</sup> &middot;
+  <strong>Marcelo Andrade da Costa Vieira</strong><sup>1</sup> &middot;
+  <strong>Angelica Maria Penteado-Dias</strong><sup>2</sup> &middot;
+  <strong>Marcelo Becker</strong><sup>1</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup> São Carlos School of Engineering, University of São Paulo (USP), São Carlos, Brazil<br>
+  <sup>2</sup> Department of Ecology and Evolutionary Biology, Federal University of São Carlos (UFSCar), São Carlos, Brazil<br>
+  <sup>3</sup> Federal University of Tocantins (UFT), Porto Nacional, Brazil<br>
+  <sup>4</sup> Department of Biology (FFCLRP), University of São Paulo (USP), Ribeirão Preto, Brazil<br>
+  <sup>5</sup> Deputado Jesualdo Cavalcanti Campus, State University of Piauí (UESPI), Corrente, Brazil
+</p>
+
+<p align="center">
+  <em>IEEE Data Descriptions, 2026</em>
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.1109/IEEEDATA.2026.3683381">
+    <img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="Paper">
+  </a>&nbsp;
+  <a href="https://arxiv.org/abs/2602.20028">
+    <img src="https://img.shields.io/badge/arXiv-2606.31941-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
+  </a>&nbsp;
+  <a href="https://zenodo.org/records/18501018">
+    <img src="https://img.shields.io/badge/Dataset-Available-2ea44f?style=flat-square&logo=databricks&logoColor=white" alt="Dataset">
+  </a>
+</p>
+
 ![Ichneumonidae Detection Example](00134_yolov12.png)
 *An Ichneumonidae wasp detected.*
 
 ![Braconidae Detection Example](604_yolov12.png)
 *A Braconidae wasp detected.*
+
+This repository contains the data processing pipelines and training workflows developed for the DAPWH dataset. It includes scripts for preprocessing, dataset split, model training, and evaluation of classification and detection models.
 ## Dataset Availability
 Comprising the families Ichneumonidae and Braconidae, these parasitoid wasps are ecologically critical for the regulation of insect populations, yet they remain one of the most taxonomically challenging groups due to their cryptic morphology and vast number of undescribed species. To address the scarcity of robust digital resources for these key groups, we present a curated image dataset designed to advance automated identification systems. The dataset contains 3,556 high-resolution images, primarily focused on Neotropical Ichneumonidae and Braconidae, while also including supplementary families such as Andrenidae, Apidae, Bethylidae, Chrysididae, Colletidae, Halictidae, Megachilidae, Pompilidae, and Vespidae to improve model robustness. Crucially, a subset of 1,739 images is annotated in COCO format, featuring multi-class bounding boxes for the full insect body, wing venation, and scale bars. This resource provides a foundation for developing computer vision models capable of identify this families.
 
